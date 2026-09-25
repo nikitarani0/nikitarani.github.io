@@ -6,7 +6,7 @@ repo_description_lines_max: 2
 github_repos:
   - nikitarani0/sentinelmesh
   - nikitarani0/custom-siem-elk-stack
-  - nikitarani0/incops
+  - nikitarani0/INCOPS_Backend
   - nikitarani0/safeshell
   - nikitarani0/sentinelwatch
   - nikitarani0/asm-tool
