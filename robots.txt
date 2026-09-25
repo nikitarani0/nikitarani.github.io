@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nikitarani.github.io/sitemap.xml
